@@ -21,7 +21,7 @@
 ### Configure Git (First time only)
 ```bash
 # Set your name
-git config --global user.name "Mohamed"
+git config --global user.name "YourName"
 
 # Set your email
 git config --global user.email "your.email@vu.nl"
